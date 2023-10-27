@@ -1,0 +1,8 @@
+[    0.477635] input: Lid Switch as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:27/PNP0C09:00/PNP0C0D:00/input/input0
+[    0.477769] input: Sleep Button as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0E:00/input/input1
+[    0.477867] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input2
+[    0.493338] input: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input3
+[    2.145007] input: Video Bus as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/LNXVIDEO:00/input/input4
+[   48.870775] input: Tablet Mode Switch as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:27/PNP0C09:00/GOOG0004:00/GOOG0006:00/input/input5
+[   48.968581] input: Elan Touchpad as /devices/pci0000:00/0000:00:17.0/i2c_designware.4/i2c-5/i2c-ELAN0000:00/input/input6
+[   49.098942] input: Intel Virtual Buttons as /devices/pci0000:00/0000:00:1f.0/PNP0C09:00/INT33D6:00/input/input7
