@@ -1,0 +1,40 @@
+Device 'Elan Touchpad':
+	Device Enabled (182):	1
+	Coordinate Transformation Matrix (184):	1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000
+	libinput Tapping Enabled (318):	1
+	libinput Tapping Enabled Default (319):	0
+	libinput Tapping Drag Enabled (320):	1
+	libinput Tapping Drag Enabled Default (321):	1
+	libinput Tapping Drag Lock Enabled (322):	0
+	libinput Tapping Drag Lock Enabled Default (323):	0
+	libinput Tapping Button Mapping Enabled (324):	1, 0
+	libinput Tapping Button Mapping Default (325):	1, 0
+	libinput Natural Scrolling Enabled (326):	1
+	libinput Natural Scrolling Enabled Default (327):	0
+	libinput Disable While Typing Enabled (328):	1
+	libinput Disable While Typing Enabled Default (329):	1
+	libinput Scroll Methods Available (330):	1, 1, 0
+	libinput Scroll Method Enabled (331):	1, 0, 0
+	libinput Scroll Method Enabled Default (332):	1, 0, 0
+	libinput Click Methods Available (333):	1, 1
+	libinput Click Method Enabled (334):	0, 1
+	libinput Click Method Enabled Default (335):	1, 0
+	libinput Middle Emulation Enabled (336):	0
+	libinput Middle Emulation Enabled Default (337):	0
+	libinput Accel Speed (338):	0.000000
+	libinput Accel Speed Default (339):	0.000000
+	libinput Accel Profiles Available (340):	1, 1
+	libinput Accel Profile Enabled (341):	1, 0
+	libinput Accel Profile Enabled Default (342):	1, 0
+	libinput Left Handed Enabled (343):	0
+	libinput Left Handed Enabled Default (344):	0
+	libinput Send Events Modes Available (303):	1, 1
+	libinput Send Events Mode Enabled (304):	0, 0
+	libinput Send Events Mode Enabled Default (305):	0, 0
+	Device Node (306):	"/dev/input/event6"
+	Device Product ID (307):	1267, 206
+	libinput Drag Lock Buttons (345):	<no items>
+	libinput Horizontal Scroll Enabled (346):	1
+	libinput Scrolling Pixel Distance (347):	15
+	libinput Scrolling Pixel Distance Default (348):	15
+	libinput High Resolution Wheel Scroll Enabled (349):	1
